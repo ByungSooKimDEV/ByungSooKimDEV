@@ -35,24 +35,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ByungSooKimDEV&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByungSooKimDEV&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+  <img height="160px" src="https://github-readme-stats-rho-flax-45.vercel.app/api?username=ByungSooKimDEV&show_icons=true&theme=tokyonight" />
+  <!-- <img height="160px" src="https://github-readme-stats-rho-flax-45.vercel.app/api?username=ByungSooKimDEV&layout=compact&theme=tokyonight" /> -->
+</p> 
 
-<!--
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ByungSooKimDEV&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByungSooKimDEV&layout=compact&theme=tokyonight" />
-</p>
--->
----
+--- 
 
-## 🌎 Activity Graph
-<p align="center">
-  <img src="https://github-readme-stats-rho-flax-45.vercel.app/api?username=ByungSooKimDEV&theme=tokyonight" />
-</p>
+## 🌎 Activity Graph 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByungSooKimDEV&theme=react-dark" /> </p>
 
 <!--
 ---
