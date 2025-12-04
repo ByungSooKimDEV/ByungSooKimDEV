@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm YOUR_NAME</h1>
+<h1 align="center">👋 Hi there! I'm BYUNG SOO</h1>
 <p align="center">Backend & Cloud Developer | Java & MSA Specialist</p>
 
 ---
@@ -7,7 +7,7 @@
 - 🔭 Backend & Cloud 중심으로 개발합니다.  
 - ☁️ MSA, Spring Cloud, Kubernetes 기반 인프라 환경에 관심이 많아요.  
 - 🌱 최근에는 대규모 트래픽 처리를 위한 아키텍처 연구 중입니다.  
-- 📫 Contact: YOUR_EMAIL
+- 📫 Contact: byungsoo.dev@gmail.com
 
 ---
 
@@ -37,32 +37,37 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ByungSooKimDEV&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByungSooKimDEV&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+<!--
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ByungSooKimDEV&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByungSooKimDEV&layout=compact&theme=tokyonight" />
+</p>
+-->
 ---
 
 ## 🌎 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=react-dark" />
+  <img src="https://github-readme-stats-rho-flax-45.vercel.app/api?username=ByungSooKimDEV&theme=tokyonight" />
 </p>
 
+<!--
 ---
 
 ## 🚀 Featured Projects
 - 🧩 **MSA 기반 서비스 아키텍처**  
   Cloud Gateway · Eureka · Config Server · Kafka 등 활용  
-  👉 https://github.com/YOUR_ID/YOUR_PROJECT  
 
 - 📦 **Spring Boot REST API 서버**  
   JWT 인증 · MySQL · JPA  
-  👉 https://github.com/YOUR_ID/YOUR_PROJECT  
-
+-->
 ---
 
 ## 🐾 Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_ID.YOUR_ID)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ByungSooKimDEV.ByungSooKimDEV)
 
 ---
 
